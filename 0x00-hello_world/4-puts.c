@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - a C program that prints a line exactly using a puts function
+ * main - A c program that prints a line exactly with a puts function
  * Return: 0 (Success)
  */
 int main(void)
